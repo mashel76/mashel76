@@ -12,11 +12,6 @@
   </a>
   <img src="https://img.shields.io/github/followers/mashel76?style=flat-square&color=00d9ff" alt="Followers" />
 </p>
-<h3 align="center">📊 Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashel76&theme=midnight_purple&show_icons=true&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashel76&theme=midnight_purple&hide_border=true&layout=compact" alt="Languages" />
-</p>
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" title="Docker"/>
@@ -31,10 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" alt="Terraform" title="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" alt="Ansible" title="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="Nginx" title="Nginx"/>
-</p>
-<h3 align="center">🏆 Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mashel76&theme=midnight_purple&column=-1" alt="Trophies" />
 </p>
 <h3 align="center">📫 Connect</h3>
 <p align="center">
