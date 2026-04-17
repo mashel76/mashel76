@@ -1,23 +1,55 @@
-# 👋 Hi, I'm MasHel
-### Full Stack Developer | Tech Enthusiast
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV2aHZhYnF4ZGM0cGJ5MnE5aXU2dGRsb3F1bHRqdG5mOHZ5YzdhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/loW0M2Vz3pqJrvQTZ5/giphy.gif" width="100"/>
+</h1>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">I'm <b>MasHel</b> — Full Stack Developer</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&background=0D111700¢er=true&vCenter=true&width=500&lines=Building+ideas+into+reality" alt="Typing" />
+</p>
 ---
-### 📊 GitHub Stats
-![MasHel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashel76&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashel76&theme=radical&layout=compact&hide_border=true)
+<p align="center">
+  <a href="https://github.com/mashel76">
+    <img src="https://komarev.com/ghpvc/?username=mashel76&label=Profile+Views&color=00d9ff&style=flat-square" alt="Views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/mashel76?style=flat-square&color=00d9ff" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/mashel76?style=flat-square&color=00d9ff" alt="Stars" />
+</p>
+---
+### 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mashel76&theme=blue_night&show_icons=true&hide_border=true&ring=00D9FF" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashel76&theme=blue_night&layout=donut&hide_border=true" alt="Languages" />
+</p>
 ---
 ### 🛠️ Tech Stack
-| Backend | Frontend | Mobile | Tools |
-|---------|----------|--------|-------|
-| Node.js | React | Android | Git |
-| Python | JavaScript | React Native | Linux |
-| PHP | HTML/CSS | | VS Code |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="50" alt="Android" title="Android"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" alt="React Native" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" alt="PHP" title="PHP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind" title="Tailwind"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
+</p>
 ---
-### 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=mashel76&theme=radical&column=4&margin-w=15)
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/veteran trophies/?username=mashel76&theme=radicale&column=6&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
 ---
-### 📫 Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:helmialfaiz76@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mashel76)
+### 📫 Connect
+<p align="center">
+  <a href="mailto:helmialfaiz76@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 ---
-### 👀 Profile Views
-![Visitors](https://visitcount.itsvg.in/api?id=mashel76&label=Profile%20Views&color=12&icon=5&pretty=false)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
