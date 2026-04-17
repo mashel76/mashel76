@@ -14,14 +14,14 @@
 </p>
 <h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashel76&theme=blue_night&show_icons=true&hide_border=true&ring=00D9FF" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashel76&theme=blue_night&hide_border=true" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mashel76&theme=midnight_purple&show_icons=true&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashel76&theme=midnight_purple&hide_border=true&layout=compact" alt="Languages" />
 </p>
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP" title="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" title="Python"/>
@@ -34,7 +34,7 @@
 </p>
 <h3 align="center">🏆 Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mashel76&theme=blue_night&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mashel76&theme=midnight_purple&column=-1" alt="Trophies" />
 </p>
 <h3 align="center">📫 Connect</h3>
 <p align="center">
